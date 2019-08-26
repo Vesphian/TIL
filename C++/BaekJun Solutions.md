@@ -1,4 +1,4 @@
-acmicpc.net/workbook/view/1946
+https://acmicpc.net/workbook/view/1946
 
 ### 01.hello world 출력
 ```cpp
@@ -60,3 +60,4 @@ int main()
     return 0;
 }
 ```
+잊었던 파이프, getline함수  
